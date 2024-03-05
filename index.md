@@ -4,3 +4,6 @@
 ~~~
 print("hello world")
 ~~~
+- [X] your are good  programmer
+- [X] you like to code 
+- [ ]  you dont like to code 
